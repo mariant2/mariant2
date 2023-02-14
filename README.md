@@ -15,13 +15,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariant2&" alt="mariant2" /></p>
 ---
-
-### :fire: My Stats :
-
-https://github-readme-streak-stats.herokuapp.com/?user=mariant2
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mariant2&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?mariant2)](https://github.com/mariant2/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariant2&layout=compact&theme=vision-friendly-dark)](https://github.com/mariant2/github-readme-stats)
-
